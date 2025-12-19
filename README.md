@@ -153,3 +153,9 @@ MINDSTORMS® robots.
 </ul>
 
 </details>
+
+<h2>Errata</h2>
+<ul>
+   <li>Preface (Page xix): Under the heading <i>To get the most out of this book</i>, the sentence "This book has been completely revised for iOS <b>16</b>, macOS Tahoe 26, Xcode 26, and Swift 6." should be "This book has been completely revised for iOS <b>26</b>, macOS Tahoe 26, Xcode 26, and Swift 6."
+</li>
+</ul>
